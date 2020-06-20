@@ -1,0 +1,49 @@
+---
+title: "Data Description"
+author: "Rowe, F., Patias, N."
+date: "20/06/2020"
+output: html_document
+---
+
+The Table below describes the data used to produce the flow map reported in the article: .  
+
+Country | Year | No. of Regions
+----------|---------------------------------------------
+Albania | 2011 |
+Armenia | 2011
+Australia | 2010
+Belarus | 2011
+Belgium | 2005
+Bosnia-Herzegovina | 2011
+Bulgaria | 2010
+Cyprus | 2001
+Czech Republic | 2010
+Denmark | 2011
+Estonia | 2010
+Finland | 2011
+France | 2006
+Georgia | 2014
+Germany | 2009
+Greece | 2011 
+Hungary | 2004
+Iceland | 2016
+Ireland | 2006
+Italy | 2009
+Latvia | 2010
+Lithuania | 2004
+Malta | 2005
+Montenegro | 2018
+Netherlands | 2010
+Norway | 2013
+Poland | 2010
+Portugal | 2011
+Romania | 2002
+Russia | 2010
+Slovakia | 2006
+Slovenia | 2010
+Spain | 2011
+Sweden | 2012
+Switzerland | 2000
+Turkey | 2012
+UK | 2011
+Ukraine | 2010
