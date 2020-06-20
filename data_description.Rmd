@@ -1,7 +1,6 @@
 ---
 title: "Data Description"
 author: "Rowe, F., Patias, N."
-date: "20/06/2020"
 output: html_document
 ---
 
