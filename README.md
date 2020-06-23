@@ -4,7 +4,7 @@ Francisco Rowe<sup>1*</sup>, Nikos Patias<sup>1</sup>
 
 1 Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom
 
-* Corresponding author
+<sup>*</sup> *Corresponding author*
 F.Rowe-Gonzalez@liverpool.ac.uk
 
 **Abstract**
