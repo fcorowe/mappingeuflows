@@ -2,9 +2,7 @@
 
 [Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias[[`@pat_nikos`](https://twitter.com/pat_nikos)]<sup>1</sup>
 
-
-
-1 Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom
+<sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*
 
 <sup>*</sup> *Corresponding author*
 F.Rowe-Gonzalez@liverpool.ac.uk
