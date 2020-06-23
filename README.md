@@ -1,7 +1,6 @@
 # Mapping The Spatial Patterns of Internal Migration in Europe
 
-[Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias[[`@pat_nikos
-`](https://twitter.com/pat_nikos)]<sup>1</sup>
+[Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1*</sup>, Nikos Patias[[`@pat_nikos`](https://twitter.com/pat_nikos)]<sup>1</sup>
 
 
 
