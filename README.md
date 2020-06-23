@@ -1,6 +1,8 @@
 # Mapping The Spatial Patterns of Internal Migration in Europe
 
-Francisco Rowe<sup>1*</sup>, Nikos Patias<sup>1</sup>
+[Francisco Rowe](http://www.franciscorowe.com) ([`@fcorowe`](http://twitter.com/fcorowe))<sup>1*</sup>, Nikos Patias<sup>1</sup>
+
+
 
 1 Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom
 
