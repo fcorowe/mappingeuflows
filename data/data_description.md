@@ -1,8 +1,4 @@
----
-title: "Data Description"
-author: "Rowe, F., Patias, N."
-output: html_document
----
+# Data Description
 
 The Table below describes the data used to produce the flow map reported in the article: .  
 
