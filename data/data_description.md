@@ -45,17 +45,27 @@ Ukraine | 2010 | 27
 
 ## Flow data (RDS format) file
 This file includes the Origin-Destination flows between regions by country. The file consists of nine columns described below:
+
 `Origin`: The name of the origin region
+
 `Destination`: The name of the destination region
+
 `flows`: The number of people migrated between the Origin and Destination regions
+
 `or_Lon`: Centroid longitude of the Origin region's polygon
+
 `or_Lat`: Centroid latitude of the Origin region's polygon
+
 `des_Lon`: Centroid longitude of the Destination region's polygon
+
 `des_Lat`: Centroid latitude of the Destination region's polygon
-`ISO_code `: ISO 3166-1 alpha-3 code of the country that the Origin and Destination regions belong to
+
+`ISO_code `: ISO 3166-1 alpha-3 code of the country that the Origin and Destination 
+regions belong to
+
 `country_name `: Name of the country that the Origin and Destination regions belong to
 
-This dataset is used by [`EU_flow_map.R`](fcorowe/mappingeuflows/tree/master/code) file which produces the flow map reported in the article.
+This dataset is used by [`EU_flow_map.R`](https://github.com/fcorowe/mappingeuflows/tree/master/code) file which produces the flow map reported in the article.
 
 
 
