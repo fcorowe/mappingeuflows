@@ -1,4 +1,8 @@
-library(dplyr) # we use dplyr which allows the use of pipes in the code
+#Dependencies
+library(dplyr) # enables use of pipe operators
+library(data.table) # large data table manipulation
+library(mapdeck) # create an interactive flow map using mapdeck library
+library(htmlwidgets) # save interactive map into a html format
 
 # read in the RDS file with the full OD flows between European regions 
 EU_flows <- readRDS("EU_OD_flows.rds")
@@ -37,14 +41,10 @@ for (country in unique(EU_flows$ISO_code)) {
 
 }
 
-
-library(data.table) 
 # we use rbindlist function from data.table
 # to combine the individual dataframes for each country to one
 MergedData <- rbindlist(country_OD_list)
 
-# create an interactive flow map using mapdeck library
-library(mapdeck)
 # mapdeck uses Mapbox maps, and to use Mapbox you need an access token.
 
 #You can generate a token by following this link https://docs.mapbox.com/help/how-mapbox-works/access-tokens/
@@ -66,8 +66,6 @@ flowmap_EU <- mapdeck( token = key, style = 'mapbox://styles/mapbox/dark-v9',
 # plot the interactive map
 flowmap_EU
 
-
-library(htmlwidgets)
 saveWidget(flowmap_EU, file="flowmap_EU.html", title = "Internal migration flows in Europe", selfcontained=TRUE)
 
 
