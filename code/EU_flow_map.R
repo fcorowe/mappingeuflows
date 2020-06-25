@@ -49,7 +49,7 @@ MergedData <- rbindlist(country_OD_list)
 key <- 'user token' ## put your own token here
 
 flowmap_EU <- mapdeck( token = key, style = 'mapbox://styles/mapbox/dark-v9',
-                location = c(7.6, 46.3), zoom = 6, pitch = 45) %>%
+                location = c(7.6, 46.3), zoom = 20, pitch = 45) %>%
   add_arc(
     data = MergedData
     , origin = c("or_Lon", "or_Lat")
