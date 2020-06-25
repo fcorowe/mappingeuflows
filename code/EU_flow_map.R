@@ -14,8 +14,6 @@ EU_flows <- readRDS("./data/EU_OD_flows.rds")
 # 3. normalise width with this equation for each country:
 # Width=3*flows between a pair of Origin and Destination regions / max(OD flow)
 
-
-
 country_OD_list <- list() # create an empty list
 
 for (country in unique(EU_flows$ISO_code)) {
@@ -68,6 +66,7 @@ flowmap_EU
 
 saveWidget(flowmap_EU, file="flowmap_EU.html", title = "Internal migration flows in Europe", selfcontained=TRUE)
 
+frameWidget(flowmap_EU, options = frameOptions(allowfullscreen = TRUE))
 
 
 
