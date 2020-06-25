@@ -12,4 +12,4 @@ Internal migration has replaced fertility and mortality as the primary demograph
 
 **Keywords**: internal migration flows, Europe, mapping, Mapbox
 
-![Internal migration flows across Europe](fig/fig1.png)
+![Internal migration flows across Europe](fig/fig1.png){width=50%} ![Internal migration flows across Europe](fig/fig1.png){width=50%}
