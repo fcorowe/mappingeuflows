@@ -3,7 +3,7 @@
 The Table below describes the data used to produce the flow map reported in the article:  
 
 Country | Year | No. of Regions
-----------|----------|---------:
+:---------|----------|---------:
 Albania | 2011 | 12
 Armenia | 2011 | 11
 Austria | 2010 | 99
