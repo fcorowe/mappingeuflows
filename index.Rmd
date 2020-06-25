@@ -1,0 +1,5 @@
+---
+title: "Mapping The Spatial Patterns of Internal Migration in Europe"
+author: "Francisco Rowe, Nikos Patias"
+output: html_document
+---
