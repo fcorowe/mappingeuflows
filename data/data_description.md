@@ -1,9 +1,9 @@
 # Data Description
 
-The Table below describes the data used to produce the flow map reported in the article: .  
+The Table below describes the data used to produce the flow map reported in the article:  
 
 Country | Year | No. of Regions
-----------|----------|----------
+----------|----------|---------:
 Albania | 2011 | 12
 Armenia | 2011 | 11
 Austria | 2010 | 99
@@ -42,3 +42,20 @@ Switzerland | 2000 | 184
 Turkey | 2012 | 81
 UK | 2011 | 404
 Ukraine | 2010 | 27
+
+## Flow data (RDS format) file
+This file includes the Origin-Destination flows between regions by country. The file consists of nine columns described below:
+`Origin`: The name of the origin region
+`Destination`: The name of the destination region
+`flows`: The number of people migrated between the Origin and Destination regions
+`or_Lon`: Centroid longitude of the Origin region's polygon
+`or_Lat`: Centroid latitude of the Origin region's polygon
+`des_Lon`: Centroid longitude of the Destination region's polygon
+`des_Lat`: Centroid latitude of the Destination region's polygon
+`ISO_code `: ISO 3166-1 alpha-3 code of the country that the Origin and Destination regions belong to
+`country_name `: Name of the country that the Origin and Destination regions belong to
+
+This dataset is used by [`EU_flow_map.R`](fcorowe/mappingeuflows/tree/master/code) file which produces the flow map reported in the article.
+
+
+
