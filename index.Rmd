@@ -27,8 +27,11 @@ The map below displays the largest internal migration flows in each country by m
 ```{r, include=FALSE}
 #read mapdeck object
 flowmap_EU <- readRDS(file = "./data/flowmap_mapdeckobj.rds")
+```
 
+```{r}
 flowmap_EU
 #frameWidget(flowmap_EU, options = frameOptions(allowfullscreen = TRUE))
 ```
+
 
