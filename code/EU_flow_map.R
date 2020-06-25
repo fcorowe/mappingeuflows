@@ -5,7 +5,7 @@ library(mapdeck) # create an interactive flow map using mapdeck library
 library(htmlwidgets) # save interactive map into a html format
 
 # read in the RDS file with the full OD flows between European regions 
-EU_flows <- readRDS("EU_OD_flows.rds")
+EU_flows <- readRDS("./data/EU_OD_flows.rds")
 
 # the result of the for-loop below will :
 # 1. omit the intra-regional flows;
@@ -50,7 +50,7 @@ MergedData <- rbindlist(country_OD_list)
 #You can generate a token by following this link https://docs.mapbox.com/help/how-mapbox-works/access-tokens/
 
 
-key <- 'your_token'    ## put your own token here
+key <- 'user token' ## put your own token here
 
 flowmap_EU <- mapdeck( token = key, style = 'mapbox://styles/mapbox/dark-v9',
                 location = c(7.6, 46.3), zoom = 6, pitch = 45) %>%
