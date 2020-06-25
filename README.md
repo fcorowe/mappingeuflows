@@ -4,7 +4,7 @@
 
 <sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*
 
-<sup>*</sup> *Corresponding author*
+<sup>*</sup> *Corresponding author*:
 F.Rowe-Gonzalez@liverpool.ac.uk
 
 **Abstract**

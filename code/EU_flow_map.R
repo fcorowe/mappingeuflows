@@ -36,7 +36,6 @@ for (country in unique(EU_flows$ISO_code)) {
   
   # create a separate list object for each country
   country_OD_list[[country]] <- OD_long
-
 }
 
 # we use rbindlist function from data.table
@@ -46,7 +45,6 @@ MergedData <- rbindlist(country_OD_list)
 # mapdeck uses Mapbox maps, and to use Mapbox you need an access token.
 
 #You can generate a token by following this link https://docs.mapbox.com/help/how-mapbox-works/access-tokens/
-
 
 key <- 'user token' ## put your own token here
 
