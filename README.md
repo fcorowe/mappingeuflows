@@ -13,6 +13,10 @@ This repository contains the code and data to replicate the map below displaying
 
 [![Internal migration flows across Europe](fig/fig1.png)](flowmap_EU.html)
 
+## Code
+
+If you would like to replicate this map, here is the code:
+
 [Code](code/EU_flow_map.R)
 
 
