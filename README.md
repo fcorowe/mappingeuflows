@@ -20,12 +20,13 @@ This repository contains the code and data to replicate the map below displaying
 
 If you use the interative map and/or code, you can give appropriate attribution by using the following citation:
 
-`@article{rowepatias_epa20,
+```
+@article{rowepatias_epa20,
   author = {Francisco Rowe and
   Nikos Patias},
   title = {Interactive Map: Internal Migration Flows in Europe},
   year = 2020,
   url = {\url{https://fcorowe.github.io/mappingeuflows/}},
   doi = {10.5281/zenodo.3910381},
-}`
-
+}
+```
