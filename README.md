@@ -14,3 +14,17 @@ This repository contains the code and data to replicate the map below displaying
 [![Internal migration flows across Europe](fig/fig1.png)](flowmap_EU.html)
 
 [Code](code/EU_flow_map.R)
+
+
+## Citation
+
+If you use the interative map and/or code, you can give appropriate attribution by using the following citation:
+
+@article{rowepatias_epa20,
+  author = {Francisco Rowe and
+  Nikos Patias},
+  title = {Mapping The Spatial Patterns of Internal Migration in Europe},
+  year = 2020,
+  url = {\url{https://fcorowe.github.io/mappingeuflows/}},
+  doi = {10.5281/zenodo.3910381},
+}
