@@ -1,6 +1,6 @@
 # Data Description
 
-The Table below describes the data used to produce the flow map reported in the article:  
+We used data from population registers and national censuses. We drew on data from the [IMAGE](https://imageproject.com.au) global repository and individual national statistical offices collected for a [Regional Studies Association](https://www.regionalstudies.org)-funded project:[Understanding the declining trend in internal migration in Europe](http://www.franciscorowe.com/project/migration_decline/). The Table below provides details of the data used to produce the flow map reported in the article:  
 
 Country | Year | No. of Regions
 :---------|----------|---------:
