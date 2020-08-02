@@ -37,4 +37,4 @@ If you use the interative map and/or code, you can give appropriate attribution 
 
 ## Use of Our Data
 
-(Jens von Bergmann)[https://flowmap.blue/18QSxtLs-AemUZx4fAL2L3oRAvK8sadCrecEUfOXucWM?v=49.491097,74.070027,2.19,0,0&a=1&b=1&bo=75&c=0&d=1&lt=1&lfm=ALL&col=Default&f=50]
+[Jens von Bergmann](https://flowmap.blue/18QSxtLs-AemUZx4fAL2L3oRAvK8sadCrecEUfOXucWM?v=49.491097,74.070027,2.19,0,0&a=1&b=1&bo=75&c=0&d=1&lt=1&lfm=ALL&col=Default&f=50)
