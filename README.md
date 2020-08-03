@@ -25,7 +25,7 @@ If you would like to replicate this map, here is the code:
 If you use the interative map and/or code, you can give appropriate attribution by using the following citation:
 
 ```
-@article{rowepatias_epa20,
+@article{rowepatias_rsrs20,
   author = {Francisco Rowe and
   Nikos Patias},
   title = {Interactive Map: Internal Migration Flows in Europe},
@@ -34,3 +34,7 @@ If you use the interative map and/or code, you can give appropriate attribution 
   doi = {10.5281/zenodo.3910381},
 }
 ```
+
+## Use of Our Data
+
+[Jens von Bergmann](https://flowmap.blue/18QSxtLs-AemUZx4fAL2L3oRAvK8sadCrecEUfOXucWM?v=49.491097,74.070027,2.19,0,0&a=1&b=1&bo=75&c=0&d=1&lt=1&lfm=ALL&col=Default&f=50)
