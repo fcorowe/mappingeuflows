@@ -35,6 +35,39 @@ If you use the interative map and/or code, you can give appropriate attribution 
 }
 ```
 
+If you want to know more about the key patterns identified in the map, refer to:
+```
+@article{rowepatias_rsrs20,
+  author = {Francisco Rowe and
+  Nikos Patias},
+  title = {Mapping The Spatial Patterns of Internal Migration in Europe},
+  journal = {Regional Science, Regional Studies},
+  year = {2020},
+  volume={},
+  pages={}
+  doi = {10.1080/21681376.2020.1811139},
+}
+
+@article{roweetal_cops19,
+  author = {Francisco Rowe, and
+  Martin Bell and
+  Aude Bernard and
+  Elin Charles-Edwards and
+  Philipp Ueffing},
+  title = {Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?},
+  journal = {Comparative Population Studies},
+  year = {2019},
+  volume={44},
+  pages={201--234}
+  doi = {10.12765/CPoS-2019-18en},
+}
+```
+
+
+Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. Comparative Population Studies, 44.
+Vancouver	
+
+
 ## Use of Our Data
 
 [Jens von Bergmann](https://flowmap.blue/18QSxtLs-AemUZx4fAL2L3oRAvK8sadCrecEUfOXucWM?v=49.491097,74.070027,2.19,0,0&a=1&b=1&bo=75&c=0&d=1&lt=1&lfm=ALL&col=Default&f=50)
