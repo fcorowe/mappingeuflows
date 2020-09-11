@@ -9,7 +9,7 @@
 <sup>*</sup> *Corresponding author*:
 F.Rowe-Gonzalez@liverpool.ac.uk
 
-This repository contains the code and data to replicate the map below displaying the main migration flows between regions in 38 European countries.The map below displays the largest internal migration flows in each country by mapping flows greater than 1,000, or top 5% flows in countries where the largest flow is smaller than 1,000. Expand, and interact with, the map by cliking on the image.
+This repository contains the code and data to replicate the map below displaying the main migration flows between regions in 38 European countries. The map below displays the largest internal migration flows in each country by mapping flows greater than 1,000, or top 5% flows in countries where the largest flow is smaller than 1,000. Expand, and interact with, the map by cliking on the image.
 
 [![Internal migration flows across Europe](fig/fig1.png)](flowmap_EU.html)
 
