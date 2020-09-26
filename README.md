@@ -65,8 +65,6 @@ If you want to know more about the key patterns identified in the map, refer to:
 
 
 Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. Comparative Population Studies, 44.
-Vancouver	
-
 
 ## Use of Our Data
 
